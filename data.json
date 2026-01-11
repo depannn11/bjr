@@ -1,0 +1,9 @@
+{
+  "users": [
+    { "id": 1, "username": "admin", "password": "adm", "role": "admin" },
+    { "id": 2, "username": "user", "password": "1", "role": "user" }
+  ],
+  "accounts": [],
+  "codes": [],
+  "notifications": []
+}
